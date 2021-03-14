@@ -1,10 +1,10 @@
-# Window::Minimized #
+# Window::Minimize #
 
-This method returns true is the window is minimized.
+This method will Minimize the window.
 
 ## Syntax ##
 
-- bool **Minimized**()
+- bool **Minimize**()
 
 ## Returns ##
 
