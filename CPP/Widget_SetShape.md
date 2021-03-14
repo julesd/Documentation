@@ -1,5 +1,5 @@
 # Widget::SetShape #
-This method sets the widget position and height.
+This method sets the widget Position and Size.
 
 ## Syntax ##
 - void **SetShape**(const int x, const int y, const int width, const int height)
