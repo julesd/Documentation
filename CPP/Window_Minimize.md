@@ -24,7 +24,7 @@ int main(int argc, const char* argv[])
     //Create user interface
     auto ui = CreateInterface(window);
 
-    //Maximize window
+    //Minimize window
     window->Minimize();
 
     while (true)
